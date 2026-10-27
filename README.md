@@ -20,10 +20,10 @@ Report any problems/bugs through issues
 
 # Setup
 
-1. Install Python (3.10 or newer), FFmpeg (ffmpeg.org) and git
-2. Install the requirements `pip install -r requirements.txt`
-3. Check that these work: `python3 --version`, `ffmpeg -version`, `ffprobe -version`
-
+1. Copy the Repository
+2. Install Python (3.10 or newer), FFmpeg (ffmpeg.org) and git
+3. Install the requirements `pip install -U -r requirements.txt`
+   
 # Commands
 
 | What | Command |
