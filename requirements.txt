@@ -1,0 +1,7 @@
+# ffmpeg and ffprobe must be on PATH or next to main.py (system dependency, not pip).
+# git must be installed (the converter library is installed from GitHub).
+
+Pillow
+git+https://github.com/UntitledCharts/sonolus-level-converters
+UnityPy
+cricodecs>=1.2.0
